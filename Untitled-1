@@ -1,0 +1,28 @@
+To dos. 
+
+1. Make search appear using map on the users page
+   - nothing is showing atm, but it used to show
+2. Make the 3 users we pull from the db show when the page loads 
+
+3. block login unless fields are filled in: just check if there are empty strings, and the render error message
+
+4. make other profile route work
+
+2. Make upload bio hidden and add button to open it on click
+
+3. Add links to routes a-tags (breadcrumbs)
+
+4. Start to implement button for friend requst
+
+
+- From reset password comp. I need to check certain things when I get an answer from the server: 
+    - error (what if the user adds a code that does not exists?) (done)
+    - correct code
+    - code expired 
+    - 
+
+
+
+
+
+ 
